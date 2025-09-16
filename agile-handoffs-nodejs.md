@@ -1,6 +1,6 @@
 # Agile Handoffs While Building a Node.js App
 
-When working on a full stack Node.js app, one of the most useful habits I discovered is the **Agile handoff** — especially the idea of handing off work to your future self. This practice helps me restart coding faster and avoid wasting time remembering what I was doing.
+When working on a full stack Node.js app, one of the most useful habits I discovered is the **Agile handoff**, which is the idea of handing off work to your future self. This practice helps me restart coding faster and avoid wasting time remembering what I was doing.
 
 ---
 
