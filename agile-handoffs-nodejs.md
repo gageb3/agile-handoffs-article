@@ -16,7 +16,7 @@ In Agile, a **handoff** means transferring responsibility or knowledge about wor
 
 > “Small, frequent handoffs … because tasks are designed to overlap.” — *Mountain Goat Software*
 
-This kind of handoff light, frequent, and overlapping helps reduce the friction of pausing and resuming work, keeps context fresh, and smooths collaboration.
+This kind of handoff helps reduce the friction of pausing and resuming work, keeps context fresh, and smooths collaboration.
 
 
 > Self-handoffs matter because memory fades quickly. A good commit message or TODO can save your future self hours of frustration.
